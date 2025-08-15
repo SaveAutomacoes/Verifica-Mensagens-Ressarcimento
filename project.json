@@ -10,7 +10,8 @@
     "UiPath.System.Activities": "[25.4.4]",
     "UiPath.System.Activities.Runtime": "[25.4.4]",
     "UiPath.UIAutomation.Activities": "[25.10.4]",
-    "UiPath.UIAutomation.Activities.Runtime": "[25.10.4]"
+    "UiPath.UIAutomation.Activities.Runtime": "[25.10.4]",
+    "UiPath.WebAPI.Activities": "[2.0.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],

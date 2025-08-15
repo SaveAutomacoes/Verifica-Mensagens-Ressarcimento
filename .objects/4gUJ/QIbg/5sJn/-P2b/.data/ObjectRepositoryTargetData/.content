@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GvAlxWiJqkmA6DGKJhXZvQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sso.acesso.gov.br/login" CVScreenId="bd8c15e0-b020-4b8d-846a-aed697fe8255" CvElementArea="651, 428, 244, 52" CvTextArea="672, 446, 200, 18" CvTextArgument="Informações do certificado" CvType="Button" DesignTimeRectangle="654, 430, 239, 48" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Selecionar um certificado' role='dialog' /&gt;&lt;ctrl name='Informações do certificado' role='push button' /&gt;" Guid="80b29945-57b2-47ce-b35e-b7c81865c53b" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='gov.br - Acesse sua conta - Google Chrome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="d9a97502134a11798ed23e32e6f7198e.png" xmlns="">0pqW00xcEE0mvD5C3yaajjA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

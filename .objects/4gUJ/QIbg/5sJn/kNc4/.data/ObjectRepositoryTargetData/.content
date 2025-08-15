@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QKiaWGr8lkus-XkqTdx7dw" Reference="qNh1v09qT0CRqNapdY1InA/kNc4bo6okUiWu6bV6vhKjg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sso.acesso.gov.br/login" DesignTimeRectangle="654, 212, 630, 189" Guid="3abf51eb-265c-45b8-93cf-f7eb19b83215" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='gov.br - Acesse sua conta - Google Chrome' /&gt;" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="38e0960bb5da00dad8bf871d6b6a1626.png" xmlns="">03JAYsXzg8kmVoIAz_d1NGw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

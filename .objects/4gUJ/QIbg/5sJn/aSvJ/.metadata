@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Filtradas 87mensagens f…",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "aSvJsJYq8EuCzUq2Cn5t3A",
+  "Reference": "qNh1v09qT0CRqNapdY1InA/aSvJsJYq8EuCzUq2Cn5t3A",
+  "ParentRef": "qNh1v09qT0CRqNapdY1InA/5sJnYBRvzU-JIShs0G6iHg",
+  "Created": "2025-08-15T15:07:14.3912953Z",
+  "Updated": "2025-08-15T15:07:14.3912953Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

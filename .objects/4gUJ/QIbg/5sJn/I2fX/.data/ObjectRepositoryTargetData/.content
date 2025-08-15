@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ksHFkDwEhE2oFmRmHRp3oQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sso.acesso.gov.br/login" CVScreenId="35b4c230-464f-4168-b6a9-bb26affef543" CvTextArea="1185, 686, 244, 24" CvTextArgument="8 Seu certificado digital" CvType="Text" DesignTimeRectangle="1178, 682, 250, 31" ElementType="Button" FullSelectorArgument="&lt;webctrl id='login-certificate' tag='BUTTON' /&gt;" Guid="49deea4f-b4ce-462a-938c-bcf0eb2a8e6f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='gov.br - Acesse sua conta' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="35b4c230-464f-4168-b6a9-bb26affef543" CvElementArea="1180, 683, 26, 31" CvType="Icon" DesignTimeRectangle="1178, 683, 30, 30" ElementType="Icon" FullSelectorArgument="&lt;webctrl parentid='login-certificate' tag='IMG' /&gt;" Guid="ad4c93b1-e07f-48ab-9c80-3b038655fd66" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIkSURBVFhH7ZbPS9NxGMf9HyKNPHgJOpRdxAy7SXpXR8VQECxBHZ5knUSCsg7ij4MHT1LgIdDD0K1fs02cISmrLim0FCkt5y+05iaz3vJ+aMN9DuLzBb9a7A1veHg/z/i8Pp/vr+XglCjHDE5KWRBTWRBT/zbIdiyJ6GYC39fjGWbGnhVZAuke+oxy9wQu1fszXOEOoWc4Yo4fSZZAGrrCKG0ZR31nGN1DETFrZuxZkSUQZ8c0Ku5Non9kAYsrMTFrZuxZkQpk7/cffI3uoLJ9CuXuEPo884gs/RKzZlbVPiX3C2c1UoH83Emiz/MFJa4grtwdw+0H79A28EnMmtn1lnE8ebWIWGLP/PmhUoGsbCZQ4gogz+FFbrUX52/6UOB8IWbN7JzDh2uugMxqpALhkfPpOFM5eqg5w1mN/g8QXor8Wz4x6xMB4X1yse41brhDYtbMbAcpanyD+09n5bVOs2ZmO0jNo2kEP66me6yZ2Q7CF5dncjnd87xdlsx2kMI7fjT1voc/HBU39X6QzDaQy8ZTU+B8Lj741HDmWEF+bMRR3BxA7t+ngz5b5RWn4RxemeGsRiqQta1d1D6ewYXal+mFTbPHGc5qpAKJxZN4FvyGstaJjFM5eBrscYazGqlA+GXnTh8OzsmC3H2ewydmzYw9zij/BehAUuJC3DUvwdXmgJg1M+0lSckSCHfLo+ei/NzTrJlpTyIlSyDHoSyIqSyIqX1Mjt+dw6yUHQAAAABJRU5ErkJggg==" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2a043ed11873f0e43e270334288c557b.png" xmlns="">09pztSe5VF0qyg-_fMTZGkQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

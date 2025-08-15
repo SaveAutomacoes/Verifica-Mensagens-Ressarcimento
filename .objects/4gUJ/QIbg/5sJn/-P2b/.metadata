@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Informações do certific…",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "-P2bn59DhUuCaHoAnCk1qA",
+  "Reference": "qNh1v09qT0CRqNapdY1InA/-P2bn59DhUuCaHoAnCk1qA",
+  "ParentRef": "qNh1v09qT0CRqNapdY1InA/5sJnYBRvzU-JIShs0G6iHg",
+  "Created": "2025-08-15T14:33:25.85474Z",
+  "Updated": "2025-08-15T14:33:25.85474Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
