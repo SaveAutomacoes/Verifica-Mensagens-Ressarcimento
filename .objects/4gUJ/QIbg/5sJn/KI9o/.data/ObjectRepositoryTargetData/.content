@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4g_ZyT6k-Uixk6yU71xQMg" Reference="qNh1v09qT0CRqNapdY1InA/KI9ouzATvU2iEcq7GR1R1A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" DesignTimeRectangle="1266, 125, 201, 47" ElementType="InputBox" FuzzySelectorArgument="&lt;ctrl name='eCAC - Centro Virtual de Atendimento - Google Chrome' role='pane' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Encontrar na página     eCAC - Centro Virtual de Atendimento' role='pane' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Buscar' role='editable text' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' /&gt;" Guid="c5cc4216-d063-42ee-bacc-d02b73caf27b" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='eCAC - Centro Virtual de Atendimento - Google Chrome' /&gt;" SearchSteps="FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="1948db00332bd39649381cbf4002ec3f.png" xmlns="">0O5uYBwt4VkuX0xXEsxIgxA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

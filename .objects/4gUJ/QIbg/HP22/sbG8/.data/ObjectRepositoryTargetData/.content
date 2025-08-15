@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Cx57lNzYCk2vUyBN3OrklA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="d887be1a-b317-4bde-8a31-df22dccfad42" CvTextArea="1116, 552, 116, 16" CvType="AnyWordGroup" DesignTimeRectangle="1116, 552, 116, 16" DesignTimeScaleFactor="1.25" ElementType="Text" Guid="50b07d89-c4c8-49f7-becc-25f374142306" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='039395270518122411180970.pdf - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e8c1d1ca-5299-4655-af17-707bba4aefff" CvTextArea="665, 552, 113, 18" CvTextArgument="Tipo da Conta" CvType="Text" DesignTimeRectangle="665, 552, 113, 18" ElementType="Text" Guid="4622d6a8-b799-4767-9ca2-9b532d616983" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="80627f175cb078660e080834545feb00.png" xmlns="">0jXxg7yS0NUWGSUyhsP4vHw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

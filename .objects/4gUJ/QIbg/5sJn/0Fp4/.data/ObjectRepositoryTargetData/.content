@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ji77Mm5gpkqxsjt74KO6Wg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="8a30d176-6d4b-4cf4-8912-6e1d34ac6e4e" CvTextArea="79, 959, 50, 17" CvTextArgument="Exibir:" CvType="Text" DesignTimeRectangle="67, 955, 76, 27" ElementType="Text" FullSelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl aaname='Exibir:' tag='SPAN' /&gt;" Guid="e71b836e-6256-46b1-8467-0405a6ecb6af" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="19a1872b0d0122e61d04cc0c4dd2eb60.png" xmlns="">0_PmQYHopN0qw4QPDDj0xRw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

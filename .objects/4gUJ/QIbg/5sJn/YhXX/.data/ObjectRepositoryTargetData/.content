@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tVYHU9pEHUyiMCiO5Zph1w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac" CVScreenId="45a46338-8360-49b4-9ff7-b2ccaf9c34a6" CvTextArea="849, 465, 356, 17" CvTextArgument="A procuração eletrônica cadastrada para O detentor" CvType="Text" DesignTimeRectangle="849, 465, 356, 16" DesignTimeScaleFactor="1.25" ElementType="Text" Guid="43b15c58-fc71-421b-9bf8-e3e0df38ef58" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="45a46338-8360-49b4-9ff7-b2ccaf9c34a6" CvTextArea="761, 464, 73, 18" CvTextArgument="ATENÇÃO:" CvType="Text" DesignTimeRectangle="764, 466, 82, 15" FuzzySelectorArgument="&lt;webctrl tag='B' type='' class='' aaname='ATENÇÃO: ' check:innerText='ATENÇÃO:' /&gt;" Guid="3437e04a-7fa0-48d4-8e0d-69ddeb6815c6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3b3dfbe031cf4a8dc3a06a764970c40a.png" xmlns="">0bLF1w2dYO02GIFHvk00fjQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DASXclrwlk6_cD0d_7wixA" Reference="qNh1v09qT0CRqNapdY1InA/Mycn88n-X0K5cb9JngoyHQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="4a65af64-7f33-4d5c-923c-86977e85009c" DesignTimeRectangle="1784, 638, 69, 50" ElementType="Button" FullSelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl name='filtro' tag='BUTTON' type='button' /&gt;" Guid="d569b198-a537-48c4-b492-2811d6acfc9f" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="c93c1b1284c8b71966bf195b8eb664df.png" xmlns="">0nbGlVGDY0U-HI878hRB7hw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

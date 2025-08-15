@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Enviada em",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "3HpC33SpAECzOQqmjWNXnw",
+  "Reference": "qNh1v09qT0CRqNapdY1InA/3HpC33SpAECzOQqmjWNXnw",
+  "ParentRef": "qNh1v09qT0CRqNapdY1InA/5sJnYBRvzU-JIShs0G6iHg",
+  "Created": "2025-07-09T13:30:57.8723795Z",
+  "Updated": "2025-07-09T13:30:57.8723795Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

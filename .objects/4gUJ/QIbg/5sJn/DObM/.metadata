@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Alterar perfil de acesso",
+  "Type": "Element",
+  "Id": "DObMDg3sBEeB4hw2P16HjQ",
+  "Reference": "qNh1v09qT0CRqNapdY1InA/DObMDg3sBEeB4hw2P16HjQ",
+  "ParentRef": "qNh1v09qT0CRqNapdY1InA/5sJnYBRvzU-JIShs0G6iHg",
+  "Created": "2025-04-29T14:50:08.4874105Z",
+  "Updated": "2025-04-29T14:50:08.4874105Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

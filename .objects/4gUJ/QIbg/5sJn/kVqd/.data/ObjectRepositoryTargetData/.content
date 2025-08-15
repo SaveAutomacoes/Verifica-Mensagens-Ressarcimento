@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kLgGALwGt0aMGjDGyhmT6A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac" CVScreenId="45a46338-8360-49b4-9ff7-b2ccaf9c34a6" CvElementArea="1183, 414, 28, 25" CvType="CloseButton" DesignTimeRectangle="1185, 415, 24, 22" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='close' tag='SPAN' type='' class='ui-icon ui-icon-closethick' check:innerText='close' /&gt;" Guid="d1763973-3e98-423f-a261-5b84dd6ee395" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="45a46338-8360-49b4-9ff7-b2ccaf9c34a6" CvTextArea="742, 429, 170, 15" CvTextArgument="Alterar perfil de acesso" CvType="Text" DesignTimeRectangle="746, 428, 166, 16" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='ui-dialog-title-perfilAcesso' tag='SPAN' type='' class='ui-dialog-title' aaname='Alterar perfil de acesso' check:innerText='Alterar perfil de acesso' /&gt;" Guid="2af52783-a085-4f51-ae28-164eba4b77d8" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="85fe04d937a0fd7e3753437027d0c5c1.png" xmlns="">0T59LYmOWOU2dveQPj4DTIQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

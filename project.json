@@ -1,0 +1,71 @@
+{
+  "name": "Verifica Mensagem de Pagamento eCAC",
+  "projectId": "34a0792b-2c4e-451b-aae7-522467af967f",
+  "description": "Automação para verifcar mensagens de pagamento eCAC",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.DocumentUnderstanding.Activities": "[2.14.0-preview]",
+    "UiPath.Excel.Activities": "[2.25.1-preview]",
+    "UiPath.IntegrationService.Activities": "[1.14.0]",
+    "UiPath.System.Activities": "[25.4.4]",
+    "UiPath.System.Activities.Runtime": "[25.4.4]",
+    "UiPath.UIAutomation.Activities": "[25.10.4]",
+    "UiPath.UIAutomation.Activities.Runtime": "[25.10.4]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "25.0.161.0",
+  "projectVersion": "1.0.50",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession",
+    "robotVersion": "25.0.161"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "arguments": {
+    "input": [],
+    "output": []
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "6e3e9248-94cf-485f-8c70-c329520e3101",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {
+    "iconUrl": ".package/money (1).png"
+  },
+  "targetFramework": "Windows"
+}

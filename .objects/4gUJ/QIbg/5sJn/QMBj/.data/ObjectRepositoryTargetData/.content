@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TJsIcueFhEG24DYyzxQ97A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="dfd6f536-5c17-48ae-99a4-ab437d16872f" CvType="AnyWordGroup" DesignTimeRectangle="327, 867, 140, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl tag='DIV' type='' class='' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="80ee85a7-5731-47b0-96b2-5422731b3d39" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dfd6f536-5c17-48ae-99a4-ab437d16872f" CvTextArea="79, 871, 51, 17" CvTextArgument="Exibir:" CvType="Text" DesignTimeRectangle="67, 867, 76, 27" ElementType="Text" FullSelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl aaname='Exibir:' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl aaname='Exibir:' tag='SPAN' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Exibir:' /&gt;" Guid="25f688c4-66b4-426e-b33a-41e26397ada5" SearchSteps="Selector, FuzzySelector, CV" />
+          <Target CVScreenId="dfd6f536-5c17-48ae-99a4-ab437d16872f" CvElementArea="248, 861, 32, 28" CvType="ArrowButton" DesignTimeRectangle="248, 861, 31, 27" ElementType="ArrowButton" Guid="f9c27142-9bd2-471f-9e1d-f4806e0022cf" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0012a0c33aa1079df426a3832f868a5a.png" xmlns="">0wLFvFy9-lUO-5pPZLrZRnQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

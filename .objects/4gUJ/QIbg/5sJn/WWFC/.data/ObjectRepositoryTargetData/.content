@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="exJweC2QaUa4t9lfNo5qWg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="c2c207e9-ca05-42ee-a6d0-1dbc3699d747" CvTextArea="65, 532, 86, 21" CvTextArgument="Pesquisar" CvType="Text" DesignTimeRectangle="67, 528, 84, 27" ElementType="Text" FullSelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl tag='LABEL' /&gt;" Guid="b40f1886-a956-49e3-9ab3-537a060545e8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="51, 528, 1818, 103" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl parentid='barra-filtros' tag='DIV' /&gt;" Guid="1b5c038f-bc46-4097-a06d-a77c6c87a6f3" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="479d0e6ae04bdb266e76d2ee3ef79f53.png" xmlns="">0BPgfw7rOzUK-J6uGFk8mjg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

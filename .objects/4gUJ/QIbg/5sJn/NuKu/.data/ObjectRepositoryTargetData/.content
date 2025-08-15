@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hBTn9sm4bEmj6dEUOlcIwA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="1e431f26-f587-4679-96a3-f186c414c7b5" CvElementArea="93, 761, 850, 54" CvType="InputBox" DesignTimeRectangle="94, 763, 850, 52" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl aaname='             Assunto                                                     ' tag='INPUT' type='text' class='brx-input medium ng-valid ng-star-inserted ng-dirty ng-touched' placeholder='Assunto' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="cccaf429-6a6e-405b-b532-4a71a33f2fd7" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1e431f26-f587-4679-96a3-f186c414c7b5" CvTextArea="91, 731, 72, 16" CvTextArgument="Assunto" CvType="Text" DesignTimeRectangle="94, 726, 850, 31" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl class='ng-star-inserted' tag='LABEL' type='' aaname='                                                                  ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Assunto' /&gt;" Guid="231cb814-9392-4bc3-aed2-aa15b4774397" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a9a5ff0ef0152f6b2eb79638d60c8c37.png" xmlns="">07flr1wykiU-V9RHZiRbZfA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

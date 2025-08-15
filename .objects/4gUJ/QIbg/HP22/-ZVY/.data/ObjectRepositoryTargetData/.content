@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kGzWMVVOSkO3rNaYbzN1OA" Reference="qNh1v09qT0CRqNapdY1InA/-ZVYRGkCKkmw0zUye3EEjA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="bf1664b9-a68f-48e5-a7b6-dfd206bc19dc" CvElementArea="1831, 882, 28, 27" CvType="Icon" DesignTimeRectangle="1854, 818, 20, 21" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl type='' class='icon-button icon-print iconeAcao' parentid='tooltip' tag='I' aaname='' /&gt;" Guid="e1fbace8-d3d5-44a6-ab9e-97dce0a185b1" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABcAAAAZCAYAAADaILXQAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAEISURBVEhL7ZKxDgFBEIa9ik6n03kJD6EWiVBoFCqRKL0AohGNShTK66hUdBfNJXIzotD8gsPZnV2cQ6P4ksvln29ndybh7/b4FAn1R5z85SKynDzQ2rXjsV73WO6AKklw4QlaXdBWrbfKx+fCnqN3e2VwO6DeNh5glg9XWljLPDggolx4uqk+g4jyPfzNZejBEwn56PIn8l+S0wrUz4OraWNYJpCXM+BGCTTzVLkLaioDsq6isJbFNLiSAhcyoPmdXFmtKPQX8Gl0/g5uHZ/82vkn5GF+K391oGa5A65lwdUjb6ziqT4LnrhhuRB+VS7kzfJwJ1bMNxXkDOrkBImFWh60VD2iPD4OyPrJFPbiVwIAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="bf1664b9-a68f-48e5-a7b6-dfd206bc19dc" CvTextArea="1809, 826, 72, 21" CvTextArgument="Imprimir" CvType="Text" DesignTimeRectangle="1829, 758, 70, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl type='' isleaf='1' tag='STRONG' class='' aaname='Imprimir' check:innerText='Imprimir' /&gt;" Guid="4740aeb2-639d-4961-8ae3-d8dfa0d863cb" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="11ffb6d8213fc74ecb165e0735a1ea7b.png" xmlns="">0gvA73XVXG0OI81uhFqd92g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

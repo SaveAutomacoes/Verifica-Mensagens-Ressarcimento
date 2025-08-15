@@ -1,0 +1,14 @@
+﻿{
+  "Name": "A procuração eletrônica…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "YhXXKq0L4kmeN1vTzJAwng",
+  "Reference": "qNh1v09qT0CRqNapdY1InA/YhXXKq0L4kmeN1vTzJAwng",
+  "ParentRef": "qNh1v09qT0CRqNapdY1InA/5sJnYBRvzU-JIShs0G6iHg",
+  "Created": "2025-04-17T17:45:07.6491776Z",
+  "Updated": "2025-04-17T17:45:07.6491776Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

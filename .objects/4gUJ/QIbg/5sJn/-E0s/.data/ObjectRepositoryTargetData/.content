@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1cHRtaPGm0SgLc9kDgnvNQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="123c21c1-acf3-4d9f-a5b3-8169329730c4" DesignTimeRectangle="485, 734, 355, 97" FullSelectorArgument="[string.Format(&quot;&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl idx='{0}' tag='DATATABLE-BODY-CELL' /&gt;&quot;, indexLinha)]" Guid="bdf41b1f-0b4d-4687-9f00-f3860205ca40" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="TopLeft" X="134" Y="31" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="35ef7e4f5adf8ff3110b4c240c48f9ae.png" xmlns="">0yXYSLV4A10ylA8WAYDq2IQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="*" Name="indexLinha" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

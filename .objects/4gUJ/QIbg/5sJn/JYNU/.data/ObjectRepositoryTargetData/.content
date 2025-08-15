@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cZTDFdQwPU29yrP7WNbUzQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="5981ae71-36dd-4e4e-93c3-90da8408ec82" CvElementArea="1139, 244, 87, 54" CvTextArea="1171, 264, 23, 15" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="1144, 247, 80, 49" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='cav.receita.fazenda.gov.br diz' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='cav.receita.fazenda.gov.br diz' role='dialog' /&gt;&lt;ctrl name='OK' role='push button' automationid='' check:fulltext='OK' /&gt;" Guid="73aaf36c-0d89-48cd-8796-4ddd3e279a3c" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='eCAC - Centro Virtual de Atendimento - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5981ae71-36dd-4e4e-93c3-90da8408ec82" CvElementArea="1139, 244, 87, 54" CvTextArea="1171, 264, 23, 15" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="689, 247, 560, 74" FullSelectorArgument="&lt;ctrl name='cav.receita.fazenda.gov.br diz' role='dialog' /&gt;&lt;ctrl idx='6' role='pane' /&gt;" FuzzySelectorArgument="&lt;ctrl name='cav.receita.fazenda.gov.br diz' role='dialog' /&gt;&lt;ctrl automationid='' role='pane' check:fulltext='OK' /&gt;" Guid="836332d3-ad3d-4398-b980-391bfa53fd40" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6734e7cc8250c52d519561ca8d087007.png" xmlns="">0iuJp_p_tkUCad_T8UUw-Yg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

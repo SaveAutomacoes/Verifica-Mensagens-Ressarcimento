@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uUiBdGXNpEeBzrzfKX77ig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac" CVScreenId="3d375290-b5d7-454b-9182-efb73fad056f" CvElementArea="1679, 334, 208, 39" CvTextArea="1719, 345, 159, 15" CvTextArgument="Você tem novas mensagens" CvType="Button" DesignTimeRectangle="1682, 336, 203, 35" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='btnCaixaPostal' tag='A' type='' class='botaoAzul' aaname='                                                      Você tem novas mensagens                                                                           ' /&gt;" Guid="bb08e33f-e3a2-46ad-aa73-54a4490a94e5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3d375290-b5d7-454b-9182-efb73fad056f" CvElementArea="1679, 334, 208, 39" CvTextArea="1719, 345, 159, 15" CvTextArgument="Você tem novas mensagens" CvType="Button" DesignTimeRectangle="1690, 337, 188, 34" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='btnCaixaPostal' tag='SPAN' type='' class='' aaname='                             Você tem novas mensagens                                                      ' /&gt;" Guid="29b1536b-ee2c-42f4-a32d-d20eea165424" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9863e5bc49ba13b36cf201f11d844cb9.png" xmlns="">0fUvP0MauJUOR0lRJx6NcEg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
