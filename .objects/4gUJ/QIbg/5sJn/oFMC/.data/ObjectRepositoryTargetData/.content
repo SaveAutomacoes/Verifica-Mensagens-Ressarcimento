@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2I1jEyUJ5UWwte7gdcZbag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" DesignTimeRectangle="8, 393, 1350, 2323" FullSelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl class='container-fluid' css-selector='body&amp;gt;app-root&amp;gt;br-main-layout&amp;gt;div&amp;gt;div' tag='DIV' /&gt;" Guid="035cdbdb-1453-4768-ac96-9684ea390b1d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="19f1a219912a8c5ae062b706f857189b.png" xmlns="">0WdcpDUjjPUarJQJjxGP5CA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">InjectJsScript</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

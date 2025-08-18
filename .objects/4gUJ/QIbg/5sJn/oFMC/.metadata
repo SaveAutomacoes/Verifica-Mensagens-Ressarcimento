@@ -1,0 +1,13 @@
+﻿{
+  "Name": " Lista de Mensagens In…",
+  "Type": "Element",
+  "Id": "oFMCaB65eEGCLkjOqKFe-Q",
+  "Reference": "qNh1v09qT0CRqNapdY1InA/oFMCaB65eEGCLkjOqKFe-Q",
+  "ParentRef": "qNh1v09qT0CRqNapdY1InA/5sJnYBRvzU-JIShs0G6iHg",
+  "Created": "2025-08-15T21:10:07.5951004Z",
+  "Updated": "2025-08-15T21:10:07.5951004Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
